@@ -1,12 +1,12 @@
 export const environment = {
   production: true,
   firebase: {
-    apiKey: "",
-    authDomain: "fir-projects-75274.firebaseapp.com",
-    databaseURL: "https://fir-projects-75274.firebaseio.com",
-    projectId: "fir-projects-75274",
-    storageBucket: "fir-projects-75274.appspot.com",
-    messagingSenderId: "1090565741443",
-    appId: "1:1090565741443:web:d6b681f7ad4f60d4"
+    apiKey: "API KEY",
+    authDomain: "angularangrychallange-mc.firebaseapp.com",
+    databaseURL: "https://angularangrychallange-mc.firebaseio.com",
+    projectId: "angularangrychallange-mc",
+    storageBucket: "angularangrychallange-mc.appspot.com",
+    messagingSenderId: "900107796177",
+    appId: "1:900107796177:web:5ff7ab0e655082cbd28ff0"
   }
 };
